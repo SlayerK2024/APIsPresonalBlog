@@ -55,3 +55,7 @@ THEN I can see the title, the content, and the author of the post.
 WHEN I view the footer,
 
 THEN I am presented with a link to the developer's portfolio.
+
+## Mock Up
+
+![image](https://github.com/SlayerK2024/APIsPresonalBlog/assets/157855730/206fd601-47d8-4ab5-a94d-5453eee9fc97)
